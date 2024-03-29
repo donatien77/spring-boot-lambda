@@ -1,0 +1,7 @@
+org/donatien/repositories/ProductRepository.class
+org/donatien/controller/PingController.class
+org/donatien/entities/Product$ProductBuilder.class
+org/donatien/web/ProductRestController.class
+org/donatien/entities/Product.class
+org/donatien/StreamLambdaHandler.class
+org/donatien/Application.class

@@ -62,6 +62,8 @@ $ sam deploy --guided
 
 Once the deployment is completed, the SAM CLI will print out the stack's outputs, including the new application URL. You can use `curl` or a web browser to make a call to the URL
 
+use this web browser to make a call to the URL: https://j97plw7ata.execute-api.ca-central-1.amazonaws.com/prod/api/products
+
 ```
 ...
 -------------------------------------------------------------------------------------------------------------
